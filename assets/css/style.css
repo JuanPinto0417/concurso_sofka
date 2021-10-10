@@ -1,0 +1,43 @@
+/* Estyles genericals */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto Slab', serif;
+    
+}
+
+.size-text {
+    font-size: 13px !important;
+}
+
+main {
+    height: 96vh;
+}
+
+/* Respuestas */
+.focus-respuestas{
+    transition: 300ms;
+}
+
+.focus-respuestas:hover{
+    transform: scale(1.01,1.01) !important;
+    color: #28A745;
+}
+
+/* Botones */
+.focus-botones{
+    transition: 300ms;
+}
+
+.focus-botones:hover{
+    transform: scale(1.07,1.07) !important;
+}
+
+/* Styles header */
+
+
+/* Styles main container */
+
+/* Stryles footer */
